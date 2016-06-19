@@ -17,5 +17,8 @@
 2. Override your token <https://github.com/blackbing/discord-bot-reply/blob/master/config.json>
 3. `npm start`
 
+# Add Your command
+1. Edit command and callbacks [commands.js](https://github.com/blackbing/discord-bot-reply/blob/master/commands.js)
+
 # Demo
 ![Alt text](https://i.imgur.com/ntTnPMl.png)
