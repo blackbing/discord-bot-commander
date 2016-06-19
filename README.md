@@ -1,5 +1,8 @@
 # A template for creating Discord reply bot quickly
 
+# Core Library
+* [Discord.js](https://github.com/hydrabolt/discord.js)
+
 # Installation
 
 ## Create Discord bot
