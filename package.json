@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-reply",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^8.0.0",
+    "sync-request": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
