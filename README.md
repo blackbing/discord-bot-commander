@@ -1,4 +1,4 @@
-# A template for creating Discord reply bot quickly
+# A template for creating Discord bot commander quickly
 
 # Core Library
 * [Discord.js](https://github.com/hydrabolt/discord.js)
@@ -14,11 +14,11 @@
 
 ## Setup bot
 1. `npm install`
-2. Override your token <https://github.com/blackbing/discord-bot-reply/blob/master/config.json>
+2. Override your token <https://github.com/blackbing/discord-bot-commander/blob/master/config.json>
 3. `npm start`
 
 # Add Your command
-1. Edit command and callbacks [commands.js](https://github.com/blackbing/discord-bot-reply/blob/master/commands.js)
+1. Edit command and callbacks [commands.js](https://github.com/blackbing/discord-bot-commander/blob/master/commands.js)
 
 # Demo
 ![Alt text](https://i.imgur.com/ntTnPMl.png)
